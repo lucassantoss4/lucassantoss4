@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Transformando processos complexos em código eficiente</h3>
+  <h3>🚀 Transformando processos complexos em código escalável e eficiente</h3>
 </div>
 
 <br/>
@@ -21,6 +21,24 @@
 </div>
 
 <br/>
+
+---
+
+### 👨‍💻 Sobre Mim
+
+Engenheiro de Software em formação com ênfase em **Backend e Cloud Computing**. Possuo experiência prática na criação de automações em Python e gestão de bancos de dados relacionais para substituir tarefas manuais repetitivas. Atuo desenvolvendo soluções que integram Web Scraping, APIs e serviços em Nuvem para otimizar a tomada de decisão e reduzir custos operacionais.
+
+- 🔭 **Atualmente trabalhando em:** Plataformas de automação (RPA) e arquitetura de microsserviços.
+- 🌱 **Estudando:** Preparação para certificação *AWS Certified Cloud Practitioner*.
+- 🎯 **Foco:** Substituir planilhas complexas e processos braçais por sistemas robustos.
+
+---
+
+### 🏆 Projetos em Destaque
+
+* 📡 **[DevRadar](https://github.com/lucassantoss4/devradar)**: Plataforma de inteligência de mercado com Web Scraping e OCR, orquestrada com Kestra e dashboard em Flask.
+* 📊 **[Innovation Projects Manager](https://github.com/lucassantoss4/innovation-projects-manager)**: Sistema CRUD centralizado em banco SQL para substituir a gestão de projetos via planilhas.
+* 🤖 **[Corporate Automation Suite](https://github.com/lucassantoss4/corporate-automation-suite)**: Conjunto de scripts e robôs (Python/Selenium) para automatizar o ciclo de vida de usuários corporativos.
 
 ---
 
