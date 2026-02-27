@@ -26,11 +26,13 @@
 
 ### 👨‍💻 Sobre Mim
 
-Engenheiro de Software em formação com ênfase em **Backend e Cloud Computing**. Possuo experiência prática na criação de automações em Python e gestão de bancos de dados relacionais para substituir tarefas manuais repetitivas. Atuo desenvolvendo soluções que integram Web Scraping, APIs e serviços em Nuvem para otimizar a tomada de decisão e reduzir custos operacionais.
+Estudante de Engenharia de Software e **Desenvolvedor Python** focado em Automação de Processos e Inovação. Tenho forte experiência prática na criação de soluções que geram eficiência operacional, utilizando **Python, Docker, SQL e ferramentas de orquestração**.
 
-- 🔭 **Atualmente trabalhando em:** Plataformas de automação (RPA) e arquitetura de microsserviços.
-- 🌱 **Estudando:** Preparação para certificação *AWS Certified Cloud Practitioner*.
-- 🎯 **Foco:** Substituir planilhas complexas e processos braçais por sistemas robustos.
+Atualmente, atuo com automação e Inteligência Artificial no **Grupo Elfa** e lidero projetos de tecnologia na ONG **Escrevendo na Quebrada**. Minha especialidade é centralizar dados via consumo de APIs, desenvolver Web Scrapers para inteligência de mercado e orquestrar fluxos corporativos (RPA).
+
+- 🔭 **Atualmente trabalhando em:** Automação de processos críticos, Web Scraping e estruturação de dados.
+- 🌱 **Estudando:** Engenharia de Software (Uniamérica) e tecnologias Cloud/Docker.
+- 🎯 **Foco:** Substituir planilhas descentralizadas e fluxos manuais por arquiteturas eficientes.
 
 ---
 
