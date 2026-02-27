@@ -62,12 +62,13 @@ Engenheiro de Software em formação com ênfase em **Backend e Cloud Computing*
 <div align="center">
   <br/>
   <a href="https://github.com/lucassantoss4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassantoss4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassantoss4&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true"/>
   </a>
   
   <a href="https://github.com/lucassantoss4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantoss4&layout=compact&theme=dracula&hide_border=true&hide=html,css,scss"/>
   </a>
+</div>
 </div>
 
 <br/>
