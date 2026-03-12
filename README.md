@@ -26,9 +26,9 @@
 
 ### 👨‍💻 Sobre Mim
 
-Estudante de Engenharia de Software e **Desenvolvedor** focado em Backend e Inteligência Artificial. [cite_start]Tenho forte experiência prática na arquitetura de soluções que geram impacto em larga escala, utilizando **Python, Java, APIs REST e Machine Learning**[cite: 46, 47, 49].
+Estudante de Engenharia de Software e **Desenvolvedor** focado em Backend e Inteligência Artificial. Tenho forte experiência prática na arquitetura de soluções que geram impacto em larga escala, utilizando **Python, Java, APIs REST e Machine Learning**.
 
-[cite_start]Atualmente, atuo como Software Engineering Intern (Innovation & AI) no **Grupo Elfa**, onde construo motores de IA preditiva para otimização de estoque e pipelines de integração de dados[cite: 52, 56, 58]. [cite_start]Além disso, lidero o desenvolvimento técnico na ONG **Escrevendo na Quebrada**, escalando o impacto social através de tecnologia[cite: 61, 63].
+Atualmente, atuo como Software Engineering Intern (Innovation & AI) no **Grupo Elfa**, onde construo motores de IA preditiva para otimização de estoque e pipelines de integração de dados. Além disso, lidero o desenvolvimento técnico na ONG **Escrevendo na Quebrada**, escalando o impacto social através de tecnologia.
 
 - 🔭 **Atualmente focado em:** Engenharia de Software, Machine Learning e Sistemas Distribuídos.
 - 🌱 **Estudando:** Algoritmos, Estruturas de Dados e Cloud Computing.
@@ -38,13 +38,14 @@ Estudante de Engenharia de Software e **Desenvolvedor** focado em Backend e Inte
 
 ### 🏆 Projetos em Destaque
 
-* [cite_start]🧠 **[Predictive AI Inventory Optimizer](https://github.com/lucassantoss4/seu-repositorio-aqui)**: Motor de forecasting de demanda utilizando Scikit-Learn e Pandas para otimizar níveis de estoque e reduzir rupturas com análise multivariável[cite: 58].
-* [cite_start]📡 **[DevRadar](https://github.com/lucassantoss4/devradar)**: Plataforma de inteligência de mercado com pipelines de dados integrados via APIs REST e arquitetura backend em Flask[cite: 57].
-* [cite_start]📊 **[Innovation Projects Manager](https://github.com/lucassantoss4/innovation-projects-manager)**: Sistema robusto de gestão centralizado em banco SQL para substituir operações vulneráveis em planilhas, garantindo integridade de dados[cite: 56].
+* 🧠 **[Predictive AI Inventory Optimizer](https://github.com/lucassantoss4/seu-repositorio-aqui)**: Motor de forecasting de demanda utilizando Scikit-Learn e Pandas para prever níveis de estoque e reduzir rupturas através de análise multivariável.
+* 📡 **[DevRadar](https://github.com/lucassantoss4/devradar)**: Plataforma de inteligência de mercado com pipelines de dados integrados via APIs REST e arquitetura backend orquestrada com Flask e Docker.
+* 📊 **[Innovation Projects Manager](https://github.com/lucassantoss4/innovation-projects-manager)**: Sistema robusto de gestão centralizado em banco SQL para substituir operações vulneráveis em planilhas, garantindo a integridade dos dados corporativos.
+* 🤖 **[Corporate Automation Suite](https://github.com/lucassantoss4/corporate-automation-suite)**: Conjunto de scripts (Python) desenvolvidos para automatizar o ciclo de vida de usuários corporativos e integrações de sistema.
 
 ---
 
-### ⚡ Tech Stack
+### ⚡ Tech Stack & Arsenal
 
 <div align="center">
 
