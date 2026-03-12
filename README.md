@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=50FA7B&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Lucas+Teixeira;Backend+%26+Automation+Developer;Python+%7C+AWS+%7C+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=50FA7B&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Lucas+Teixeira;Software+Engineer;Backend+%7C+AI+%7C+Cloud" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>🚀 Transformando processos complexos em código escalável e eficiente</h3>
+  <h3>🚀 Transformando problemas complexos em sistemas escaláveis e inteligência preditiva</h3>
 </div>
 
 <br/>
@@ -26,33 +26,33 @@
 
 ### 👨‍💻 Sobre Mim
 
-Estudante de Engenharia de Software e **Desenvolvedor Python** focado em Automação de Processos e Inovação. Tenho forte experiência prática na criação de soluções que geram eficiência operacional, utilizando **Python, Docker, SQL e ferramentas de orquestração**.
+Estudante de Engenharia de Software e **Desenvolvedor** focado em Backend e Inteligência Artificial. [cite_start]Tenho forte experiência prática na arquitetura de soluções que geram impacto em larga escala, utilizando **Python, Java, APIs REST e Machine Learning**[cite: 46, 47, 49].
 
-Atualmente, atuo com automação e Inteligência Artificial no **Grupo Elfa** e lidero projetos de tecnologia na ONG **Escrevendo na Quebrada**. Minha especialidade é centralizar dados via consumo de APIs, desenvolver Web Scrapers para inteligência de mercado e orquestrar fluxos corporativos (RPA).
+[cite_start]Atualmente, atuo como Software Engineering Intern (Innovation & AI) no **Grupo Elfa**, onde construo motores de IA preditiva para otimização de estoque e pipelines de integração de dados[cite: 52, 56, 58]. [cite_start]Além disso, lidero o desenvolvimento técnico na ONG **Escrevendo na Quebrada**, escalando o impacto social através de tecnologia[cite: 61, 63].
 
-- 🔭 **Atualmente trabalhando em:** Automação de processos críticos, Web Scraping e estruturação de dados.
-- 🌱 **Estudando:** Engenharia de Software (Uniamérica) e tecnologias Cloud/Docker.
-- 🎯 **Foco:** Substituir planilhas descentralizadas e fluxos manuais por arquiteturas eficientes.
+- 🔭 **Atualmente focado em:** Engenharia de Software, Machine Learning e Sistemas Distribuídos.
+- 🌱 **Estudando:** Algoritmos, Estruturas de Dados e Cloud Computing.
+- 🎯 **Objetivo:** Desenvolver arquiteturas eficientes e robustas que resolvem problemas de negócios em larga escala.
 
 ---
 
 ### 🏆 Projetos em Destaque
 
-* 📡 **[DevRadar](https://github.com/lucassantoss4/devradar)**: Plataforma de inteligência de mercado com Web Scraping e OCR, orquestrada com Kestra e dashboard em Flask.
-* 📊 **[Innovation Projects Manager](https://github.com/lucassantoss4/innovation-projects-manager)**: Sistema CRUD centralizado em banco SQL para substituir a gestão de projetos via planilhas.
-* 🤖 **[Corporate Automation Suite](https://github.com/lucassantoss4/corporate-automation-suite)**: Conjunto de scripts e robôs (Python/Selenium) para automatizar o ciclo de vida de usuários corporativos.
+* [cite_start]🧠 **[Predictive AI Inventory Optimizer](https://github.com/lucassantoss4/seu-repositorio-aqui)**: Motor de forecasting de demanda utilizando Scikit-Learn e Pandas para otimizar níveis de estoque e reduzir rupturas com análise multivariável[cite: 58].
+* [cite_start]📡 **[DevRadar](https://github.com/lucassantoss4/devradar)**: Plataforma de inteligência de mercado com pipelines de dados integrados via APIs REST e arquitetura backend em Flask[cite: 57].
+* [cite_start]📊 **[Innovation Projects Manager](https://github.com/lucassantoss4/innovation-projects-manager)**: Sistema robusto de gestão centralizado em banco SQL para substituir operações vulneráveis em planilhas, garantindo integridade de dados[cite: 56].
 
 ---
 
-### ⚡ Tech Stack & Arsenal
+### ⚡ Tech Stack
 
 <div align="center">
 
-| **Backend & API** | **Data & Automation** | **Cloud & DevOps** |
+| **Backend & API** | **Data & AI** | **Cloud & DevOps** |
 |:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" /> | <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" /> | <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> | <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> | <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" /> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> |
 | <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> | <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> |
 
 </div>
@@ -64,10 +64,10 @@ Atualmente, atuo com automação e Inteligência Artificial no **Grupo Elfa** e 
 <div align="center">
   <br/>
   <a href="https://github.com/lucassantoss4">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucassantoss4&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lucassantoss4&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
   <br/><br/>
   <a href="https://github.com/lucassantoss4">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucassantoss4&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantoss4&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   </a>
 </div>
